@@ -12,4 +12,4 @@ Hi! I'm Jisu🍞
 <a href="https://jigoo-log.tistory.com"><img src="https://img.shields.io/badge/Tec_Blog-7A86B6?style=flat-square&logo=Tistory&logoColor=white&link=https://jigoo-log.tistory.com/"></a><br>
 
 -----
-[![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJisu-IT&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KimJisu-IT/github-readme-stats)
+[![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJisu-IT&count_private=true&show_icons=true&theme=prussian)](https://github.com/KimJisu-IT/github-readme-stats)
