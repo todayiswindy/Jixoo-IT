@@ -1,4 +1,4 @@
-Hi! I'm Jisu🍞
+Hi! I'm Jisoo🍞
 ----
 🏫 Sookmyung Women's University <br>
 💻 IT Engineering <br>
