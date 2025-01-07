@@ -10,5 +10,9 @@ Hi! I'm Jisoo🍞
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <p>
 <a href="https://jigoo-log.tistory.com"><img src="https://img.shields.io/badge/Tec_Blog-7A86B6?style=flat-square&logo=Tistory&logoColor=white&link=https://jigoo-log.tistory.com/"></a><br>
 
------
-[![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJisu-IT&count_private=true&show_icons=true&theme=prussian)](https://github.com/KimJisu-IT/github-readme-stats)
+----
+[![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixoo-IT&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Jixoo-IT/github-readme-stats)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Jixoo-IT?pet-id=1" width="500" height="100"/>
+</a>
