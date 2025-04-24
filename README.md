@@ -3,7 +3,7 @@ Hi! I'm Jisoo🍞
 💭 하루하루 발전해나가며 스스로의 가치를 높이는 개발자 <br>
 💭 사회에 선한 영향력과 가치를 더하는 개발자 <br>
 
-🚀 Backend & Cloud Engineer <br>
+🚀 Backend Engineer <br>
 🏫 Sookmyung Women's University <br>
 💻 IT Engineering <br>
 👾 My Technology Stack <br><br>
