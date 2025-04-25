@@ -7,15 +7,33 @@ Hi! I'm Jisoo🍞
 🏫 Sookmyung Women's University <br>
 💻 IT Engineering <br>
 👾 My Technology Stack <br><br>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jixoo-IT&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Jixoo-IT)
 <br>
 [![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jixoo-IT&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/Jixoo-IT/github-readme-stats)
+
+## 🍳 Skills
+<div>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</div>
+<br>
+
+
+## 🛠️ Projects
+
+| 프로젝트명 | 기간 |
+| :---: | :---: |
+| [PostGlance](https://github.com/PosterGlance): 졸업 프로젝트 AI 비대면 포스터 관리 시스템 | 2024.10 - 2025.02 |
+| [찐친고사](https://github.com/nunsongCookie/Real-Friend-Challenge_Server): 친구들과 우정을 테스트하는 퀴즈 플랫폼 | 2024.12 - 2025.01 |
+| [키움 키오스크](https://github.com/Kiwoom-Kiosk/Kiwoom-Kiosk): 디지털 약자를 위한 AI 화면 키오스크 | 2024.05.20 - 2024.06.19 |
+| AirChat: 공항 내 직원 간 채팅 서비스 | 2024.11 |
+| CampUs: 사회의 문제를 인식하고 참여하는 캠페인 앱 | 2022.11 |
+| [OTR](https://github.com/Likelion-at-SMWU-10th/Otr-Server): 디지털 임종 체험 및 유서작성 서비스 | 2022.07 - 2022.08 |
+<br>
 
 ## 🥇 Awards
 
@@ -24,6 +42,7 @@ Hi! I'm Jisoo🍞
 | 제4회 숙명여자대학교 프로그래밍 경진대회 SMUPC | 2024.05.18 | 동상 |
 | 제2회 SW중심대학 연합 주최 해커톤 UniD-Thon | 2022.11.06 | 금상 |
 | 제1회 신한금융그룹 빅데이터 해커톤 (신한투자증권) | 2022.09.08 - 2024.10.07 | 우수상 |
+<br>
 
 ## 🧑‍💻 Experience
 
@@ -41,13 +60,3 @@ Hi! I'm Jisoo🍞
 | IT공학전공 학회 코딧 ‘Code-IT’ 수료 | 2022.03 - 2022.12 |
 | 기초공학부 5대 학생회 홍보기획부 | 2021.03 - 2022.03 |
 
-## 🛠️ Projects
-
-| 프로젝트명 | 기간 |
-| :---: | :---: |
-| [PostGlance](https://github.com/PosterGlance): 졸업 프로젝트 AI 비대면 포스터 관리 시스템 | 2024.10 - 2025.02 |
-| [찐친고사](https://github.com/nunsongCookie/Real-Friend-Challenge_Server): 친구들과 우정을 테스트하는 퀴즈 플랫폼 | 2024.12 - 2025.01 |
-| [키움 키오스크](https://github.com/Kiwoom-Kiosk/Kiwoom-Kiosk): 디지털 약자를 위한 AI 화면 키오스크 | 2024.05.20 - 2024.06.19 |
-| AirChat: 공항 내 직원 간 채팅 서비스 | 2024.11 |
-| CampUs: 사회의 문제를 인식하고 참여하는 캠페인 앱 | 2022.11 |
-| [OTR](https://github.com/Likelion-at-SMWU-10th/Otr-Server): 디지털 임종 체험 및 유서작성 서비스 | 2022.07 - 2022.08 |
